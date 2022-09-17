@@ -480,6 +480,8 @@ img {
   border: 0;
   border-radius: 4px;
   background-color: var(--portfolio-btn-color);
+  cursor: pointer;
+
 }
 .porfolio-filter-list:not(:last-child) {
   margin-right: 8px;
