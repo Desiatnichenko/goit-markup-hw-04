@@ -343,7 +343,7 @@ img {
 }
 
 .clients-item:not(:last-child) {
-  margin-right: 30px;
+  gap: 30px;
 }
 .clients-item-svg {
   line-height: 0;
