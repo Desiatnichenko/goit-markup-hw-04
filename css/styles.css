@@ -318,11 +318,6 @@ img {
   gap: 10px;
   padding-bottom: 30px;
 }
-.team-card-social-item {
-  display: flex;
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
 }
 .team-link {
   display: flex;
