@@ -295,7 +295,6 @@ img {
   justify-content: center;
   gap: 10px;
 }
-}
 .team-item {
   flex-basis: calc((100% - 90px) / 4);
   background: #FFFFFF; 
